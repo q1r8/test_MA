@@ -1,4 +1,6 @@
-Веса модели https://drive.google.com/file/d/1PmwWxg2BB-y8z1SFkBc5eRQ6MmiNOqu4/view?usp=sharing
+Веса модели - https://drive.google.com/file/d/1PmwWxg2BB-y8z1SFkBc5eRQ6MmiNOqu4/view?usp=sharing
+
+csv для подсчета метрик - https://drive.google.com/file/d/1VxglHIa-l9iztLD53is7nuiwoPF9fqjL/view?usp=sharing
 ## Подход
 
 Популярным решением этой задачи являются всевозможные подходы связанные с metric learning. Я остановился на подходе саимской сети, его основной смысл заключается в том, что у нас есть "две" нейронных сети с одинаковыми весами, через которые мы прогоняем два изображения на входе и на выходе имеем два эмбеддинга, на основе которых считаем расстояние между двумя изображениями.
