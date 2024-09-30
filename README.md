@@ -15,15 +15,19 @@
 Считал основные метрики для классификации с разными отсечками на 1000 семплах пар, не входящих в обучение (500 пар позитивных, 500 негативных):
 Если значение расстояние меньше treshold'а - целевой класс, больше - негативный
 treshold - 0.05
+--
 <img width="373" alt="изображение" src="https://github.com/user-attachments/assets/63551500-fd08-4057-9996-47921c3ea0fe">
 
 treshold - 0.1
+--
 <img width="371" alt="изображение" src="https://github.com/user-attachments/assets/b84ffdbb-9d0b-4692-b961-6fd9c6e58850">
 
 treshold - 0.15
+--
 <img width="373" alt="изображение" src="https://github.com/user-attachments/assets/b71147d7-04f8-41ca-9a19-04ef79c6d687">
 
 treshold - 0.2
+--
 <img width="379" alt="изображение" src="https://github.com/user-attachments/assets/fecdc6b5-5849-423a-8848-e05d5ca7a794">
 
 
