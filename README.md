@@ -1,4 +1,4 @@
-Веса модели - [https://github.com/q1r8/test_MA/blob/master/README.md](https://drive.google.com/file/d/1PmwWxg2BB-y8z1SFkBc5eRQ6MmiNOqu4/view?usp=sharing)
+Веса модели - [https://drive.google.com/file/d/1PmwWxg2BB-y8z1SFkBc5eRQ6MmiNOqu4/view?usp=sharing](гугл диск)
 
 ## Подход
 
